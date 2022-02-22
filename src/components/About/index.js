@@ -16,7 +16,6 @@ const About = () => {
                         <AboutRightP>Aleph Zero is built for enterprise, Web 3.0, and DeFi use-cases.</AboutRightP>
                         <AboutCenterP>Aleph Zero is a Proof-of-Stake public blockchain with private smart contracts built from the first principles. We combined an <span style={mystyle}><b>original, aBFT consensus protocol</b></span> with a <span style={mystyle}><b>privacy framework</b></span> based on Zero-knowledge Proofs (ZKPs) and secure Multi-Party Computation (sMPC) with the <span style={mystyle}><b>Substrate</b></span> stack.</AboutCenterP>
                     </AboutArticle>
-                        {/*this is Rameez here*/}
                     <RightImg>
                         <TextureImg src={textureImg} />
                     </RightImg>

@@ -62,7 +62,7 @@ export const AboutH3 = styled.h3`
 color: #14202a;
     padding-left: 25px;
     font-size: 39px;
-    font-weight: 300;
+    font-weight: 400;
     margin-bottom: 20px;
 :before{
     content: "";
@@ -80,14 +80,14 @@ export const AboutRightP = styled.p`
 
     color: #14202a;
     text-align: left;
-    font-size: 17px;
+    font-size: 18px;
     margin-bottom: 25px;
 `;
 
 export const AboutCenterP = styled.p`
 color: #14202a;
 text-align: left;
-font-size: 17px;
+font-size: 18px;
 :before{
     content: "";
     display: inline-block;

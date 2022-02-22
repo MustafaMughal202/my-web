@@ -6,6 +6,7 @@ import Secondary from '../components/Secondary';
 import Clients from '../components/Clients';
 import Social from '../components/Social';
 import About from '../components/About';
+import Accordion from '../components/Accordion';
 
 function Home() {
   const [isOpen, setIsOpen] = useState(false);
@@ -22,6 +23,7 @@ function Home() {
       <Banner />
       <Clients />
       <About />
+      <Accordion />
     </>
   );
 }
